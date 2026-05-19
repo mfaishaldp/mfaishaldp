@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub
 
-Welcome to my GitHub, where I share my projects, experiments, and things I build while learning and exploring technology.
+Welcome to my GitHub, where I share my projects, experiments, and things I build while learning and exploring technology. <br>
 Explore my portfolio, projects, and more here:  
 
 🔗 **[mfaishaldp.my.id](https://mfaishaldp.my.id/)**
