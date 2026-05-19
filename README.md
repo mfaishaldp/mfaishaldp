@@ -6,8 +6,8 @@ Welcome to my GitHub, where I share my projects, experiments, and things I build
 
 Thanks for stopping by!
 
-# 💫 About Me:
-A tech enthusiast with a strong foundation in data management, analytics, and business intelligence. <br>Passionate about leveraging technology to solve complex problems, I decided to transition from the oil <br>& gas industry to pursue my long-standing interest in programming. I completed the Hacktiv8 Full<br>Stack JavaScript Immersive bootcamp to enhance my technical skills and expand my expertise in web <br>development, mobile applications, and data integration. Eager to apply my analytical experience and <br>newly acquired programming skills to build impactful and scalable solutions. 
+# About Me:
+Passionate programmer with a strong interest in data, analytics, and software development. I enjoy building scalable solutions, exploring new technologies, and turning ideas into impactful applications. Driven by curiosity and continuous learning, I strive to create projects that are both useful and meaningful.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mfaishaldp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mfaishaldp) 
