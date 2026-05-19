@@ -1,6 +1,9 @@
 # 👋 Welcome to My GitHub
 
 Welcome to my GitHub, where I share my projects, experiments, and things I build while learning and exploring technology.
+Explore my portfolio, projects, and more here:  
+
+🔗 **[mfaishaldp.my.id](https://mfaishaldp.my.id/)**
 
 > "It ain't much, but it's honest work."
 
@@ -24,11 +27,3 @@ Passionate programmer with a strong interest in data, analytics, and software de
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-## 🌐 Check Out My Web Profile
-
-Explore my portfolio, projects, and more here:  
-
-🔗 **[mfaishaldp.my.id](https://mfaishaldp.my.id/)**
-
-> Building, learning, and growing one project at a time.
